@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mizan.Practice.Patterns.AdapterPattern\Mizan.Practice.Patterns.AdapterPattern.csproj" />
+    <ProjectReference Include="..\Mizan.Practice.Patterns.Bridge\Mizan.Practice.Patterns.Bridge.csproj" />
+    <ProjectReference Include="..\Mizan.Practice.Patterns.ChainOfResponsibility\Mizan.Practice.Patterns.ChainOfResponsibility.csproj" />
+    <ProjectReference Include="..\Mizan.Practice.Patterns.Command\Mizan.Practice.Patterns.Command.csproj" />
+    <ProjectReference Include="..\Mizan.Practice.Patterns.Composit\Mizan.Practice.Patterns.Composite.csproj" />
+    <ProjectReference Include="..\Mizan.Practice.Patterns.Decorator\Mizan.Practice.Patterns.Decorator.csproj" />
+    <ProjectReference Include="..\Mizan.Practice.Patterns.FactoryMethod\Mizan.Practice.Patterns.FactoryMethod.csproj" />
+    <ProjectReference Include="..\Mizan.Practice.Patterns.Mediator\Mizan.Practice.Patterns.Mediator.csproj" />
+    <ProjectReference Include="..\Mizan.Practice.Patterns.Observer\Mizan.Practice.Patterns.Observer.csproj" />
+    <ProjectReference Include="..\Mizan.Practice.Patterns.Prototype\Mizan.Practice.Patterns.Prototype.csproj" />
+    <ProjectReference Include="..\Mizan.Practice.Patterns.StatePattern\Mizan.Practice.Patterns.StatePattern.csproj" />
+  </ItemGroup>
+
+</Project>
