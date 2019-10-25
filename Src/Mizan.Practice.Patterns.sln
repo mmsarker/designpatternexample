@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.10
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mizan.Practice.Patterns.AdapterPattern", "Mizan.Practice.Patterns.AdapterPattern\Mizan.Practice.Patterns.AdapterPattern.csproj", "{351F15E1-5572-449E-B7D7-4F54ED84DF25}"
 EndProject
@@ -28,6 +28,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mizan.Practice.Patterns.Observer", "Mizan.Practice.Patterns.Observer\Mizan.Practice.Patterns.Observer.csproj", "{1ABF047A-11D5-4A3E-9F08-CE46234B039E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mizan.Practice.Patterns.Mediator", "Mizan.Practice.Patterns.Mediator\Mizan.Practice.Patterns.Mediator.csproj", "{DC4D650E-896F-4B51-BB21-9F9A78024506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mizan.Practice.Patterns.MomentoPattern", "Mizan.Practice.Patterns.MomentoPattern\Mizan.Practice.Patterns.MomentoPattern.csproj", "{5DE41DA2-93DC-41E5-A5CE-6392BA28038B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{DC4D650E-896F-4B51-BB21-9F9A78024506}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC4D650E-896F-4B51-BB21-9F9A78024506}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC4D650E-896F-4B51-BB21-9F9A78024506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE41DA2-93DC-41E5-A5CE-6392BA28038B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE41DA2-93DC-41E5-A5CE-6392BA28038B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE41DA2-93DC-41E5-A5CE-6392BA28038B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE41DA2-93DC-41E5-A5CE-6392BA28038B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
